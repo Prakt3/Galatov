@@ -1,0 +1,6 @@
+c:\users\userr\documents\visual studio 2015\Projects\praktika2\praktika2\bin\Debug\praktika2.exe.config
+c:\users\userr\documents\visual studio 2015\Projects\praktika2\praktika2\bin\Debug\praktika2.exe
+c:\users\userr\documents\visual studio 2015\Projects\praktika2\praktika2\bin\Debug\praktika2.pdb
+c:\users\userr\documents\visual studio 2015\Projects\praktika2\praktika2\obj\Debug\praktika2.csprojResolveAssemblyReference.cache
+c:\users\userr\documents\visual studio 2015\Projects\praktika2\praktika2\obj\Debug\praktika2.exe
+c:\users\userr\documents\visual studio 2015\Projects\praktika2\praktika2\obj\Debug\praktika2.pdb
